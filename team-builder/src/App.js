@@ -39,12 +39,6 @@ function App() {
   };
 
   const submitForm = () => {
-    // const newTeamMemberTrim = {
-    //   username: formValues.username.trim(),
-    //   email: formValues.email.trim(),
-    //   role: formValues.role
-    // }
-
     const newTeamMemberTrim = new TeamMember(formValues.name.trim(), formValues.role);
 
     if(!newTeamMemberTrim.name || !newTeamMemberTrim.role) return;
@@ -54,7 +48,7 @@ function App() {
 
   return (
     <div>
-      <h1>💯Da SamFam💯</h1>
+      <h1>💯Da Svyat Syndicate💯</h1>
       <Form 
         values={formValues}
         update={updateForm}

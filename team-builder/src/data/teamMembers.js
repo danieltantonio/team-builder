@@ -1,34 +1,30 @@
 const teamMemberData = [
     {
-        name: 'Samuel Rowan',
+        name: 'Svyat Okshin',
         role: 'Tech Lead'
     },
     {
-        name: 'Ava',
+        name: 'Chris Corbon',
         role: 'Network Security Engineer'
     },
     {
-        name: 'Emmet',
+        name: 'Liz Comwall',
         role: 'Network Security Engineer'
     },
     {
-        name: 'Jake',
+        name: 'Matthew Mullford',
         role: 'Backend Engineer'
     },
     {
-        name: 'Jonathon Warner',
+        name: 'Jonathon Raczkowski',
         role: 'Frontend Engineer'
     },
     {
-        name: 'Mason Davis',
+        name: 'Bret M',
         role: 'Frontend Engineer'
     },
     {
-        name: 'Orlando Davila',
-        role: 'Backend Engineer'
-    },
-    {
-        name: 'Sami',
+        name: 'Austin McCollom',
         role: 'Backend Engineer'
     },
     {
